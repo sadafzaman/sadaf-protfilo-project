@@ -1,0 +1,16 @@
+
+
+.sadaf-logo{
+    color:#7f97ff;
+}
+span{
+   color: #324fcf; 
+}
+.product img{
+    border: 1px solid slateblue;
+    padding: 10px;
+    border-radius: 50%;
+}
+.border-rounded img{
+    border-radius: 50%;
+}
